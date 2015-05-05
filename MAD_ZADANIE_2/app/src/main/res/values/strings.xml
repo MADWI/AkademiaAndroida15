@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAD_3</string>
+
+    <string name="button_1">Fragment 1</string>
+    <string name="button_2">Fragment 2</string>
+    <string name="button_3">Fragment 3</string>
+
+</resources>
