@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MAD_4</string>
+
+    <!-- Fragment Main -->
+    <string name="button_shared_preferences">Shared Preferences</string>
+    <string name="button_files">Pliki</string>
+    <string name="button_database">Baza danych</string>
+
+    <!-- Fragment SharedPreferences -->
+    <string name="key_hint">Klucz</string>
+    <string name="value_hint">Wartość</string>
+
+
+    <!-- Fragment Files -->
+    <string name="input_text">Wprowadź tekst</string>
+    <string name="not_exist">Plik nie istnieje</string>
+
+
+    <string name="save">Zapisz</string>
+    <string name="read_all">Odczytaj wszystko</string>
+    <string name="read">Odczytaj</string>
+
+    <string name="required_filed">Pole wymagane</string>
+
+    <!-- Fragment Database -->
+    <string name="id_hint">Id</string>
+    <string name="name_hint">Imię</string>
+    <string name="surname_hint">Nazwisko</string>
+    <string name="profession_hint">Zawód</string>
+
+    <string name="button_read">Odczytaj</string>
+    <string name="button_add">Wstaw (id można pominąć)</string>
+    <string name="button_update">Aktualizuj (id konieczne)</string>
+    <string name="button_delete">Usuń (usuwanie po id)</string>
+
+</resources>
